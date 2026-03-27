@@ -1,0 +1,1 @@
+run_id,date,question_id,polymarket_url,market_price_pct,mirofish_prediction_pct,model,agents,rounds,seed_file,mirofish_commit,cost_cny,resolution_date,actual_outcome,brier_score,notes
